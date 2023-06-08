@@ -1,5 +1,4 @@
 #include "main.h"
-int find_sqrt(int num, int root);
 /**
  * find_sqrt - finds the natural square root of an inputted number
  * @num: the number to find the square of
@@ -29,4 +28,3 @@ int _sqrt_recursion(int n)
 		return (1);
 	return (find_sqrt(n, root));
 }
-
