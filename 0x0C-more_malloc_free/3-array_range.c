@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * *array_range - creates an array of integers
- * @min: minimum range of values 
+ * @min: minimum range of value
  * @max: maximum range of values stored and number of elements
  * Return: pionter to the new array
  */
